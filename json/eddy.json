@@ -898,19 +898,19 @@
         "Tags": []
     },
     {
-        "Block frame": "\u2013",
+        "Block frame": "-",
         "Command": "u/b+3+4,D",
-        "Counter hit frame": "\u2013",
+        "Counter hit frame": "-",
         "Damage": "15",
         "Gif": "",
-        "Hit frame": "\u2013",
+        "Hit frame": "-",
         "Hit level": "m (TJ),(RLX)",
         "Notes": "",
         "Start up frame": "22~23 js8~",
         "Tags": []
     },
     {
-        "Block frame": "\u2013",
+        "Block frame": "-",
         "Command": "u+3+4,D",
         "Counter hit frame": "KND",
         "Damage": "15",
@@ -2629,7 +2629,7 @@
         "Hit frame": "+6~+10s",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "30",
+        "Start up frame": "30 pc8~",
         "Tags": [
             "Power Crush"
         ]

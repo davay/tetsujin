@@ -352,7 +352,7 @@
         "Command": "4,3,4",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "14,12,14",
-        "Gif": "https://gfycat.com/WellmadeIndolentArcticduck.gif",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flaw%2F014.mp4?alt=media",
         "Hit frame": "-1",
         "Hit level": "h,h,h",
         "Notes": "",
@@ -676,6 +676,18 @@
         "Start up frame": "78",
         "Tags": []
     },
+    {   "Alias": ["b+2+4"],
+        "Block frame": "-",
+        "Command": "b+1+3",
+        "Counter hit frame": "-",
+        "Damage": "90",
+        "Gif": "",
+        "Hit frame": "+5",
+        "Hit level": "-",
+        "Notes": "Total 35f. Absorbs H/M. +14 when canceled into stance",
+        "Start up frame": "2~11",
+        "Tags": []
+    },
     {
         "Block frame": "-",
         "Command": "d/b+1+2,u,u (Cancel)",
@@ -942,12 +954,12 @@
     },
     {
         "Alias": [
-            "u/b+4,3",
-            "u+4,3",
-            "u/f+4,3"
+            "u/b*+4,3",
+            "u*+4,3",
+            "u/f*+4,3"
         ],
         "Block frame": "-18~-15",
-        "Command": "u/b_u_U/F+4,3",
+        "Command": "u/f*+4,3",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "22,22",
         "Gif": "https://gfycat.com/AgilePassionateHorse.gif",
@@ -1210,7 +1222,7 @@
         "Command": "FC 3,4",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "12,23",
-        "Gif": "https://gfycat.com/TiredQueasyAfricancivet.gif",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flaw%2F089.mp4?alt=media",
         "Hit frame": "Launch (JG?)",
         "Hit level": "l,m (TJ)",
         "Notes": "",
@@ -1267,7 +1279,7 @@
     },
     {
         "Block frame": "-21~-18 (10a)",
-        "Command": "FC U/F+4",
+        "Command": "FC u/f*+4",
         "Counter hit frame": "KND",
         "Damage": "30",
         "Gif": "https://gfycat.com/MeatyHardtofindIndianpangolin.gif",
@@ -1303,7 +1315,7 @@
     },
     {
         "Block frame": "-21~-18 (10a)",
-        "Command": "FC U/F+4,d",
+        "Command": "FC u/f*+4,d",
         "Counter hit frame": "KND",
         "Damage": "30",
         "Gif": "",
@@ -2061,7 +2073,7 @@
         "Hit frame": "Launch (JG?)",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "19~22 (29,35)",
+        "Start up frame": "19~22",
         "Tags": []
     },
     {

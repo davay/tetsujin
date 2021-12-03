@@ -141,16 +141,17 @@
     {
         "Alias": [
             "1+2,1+2,f+2",
-            "1+2,1+2,b+2"
+            "1+2,1+2,b+2",
+            "1+2,1+2,b,f+2"
         ],
         "Block frame": "-",
-        "Command": "1+2,1+2,fb+2",
+        "Command": "1+2,1+2,f,b+2",
         "Counter hit frame": "Throw(KND)",
-        "Damage": "20,20,18",
+        "Damage": "20,20,18(20)",
         "Gif": "https://gfycat.com/rawdarlinghornet.gif",
         "Hit frame": "Throw(KND)",
         "Hit level": "m,(throw),(throw),(STB)",
-        "Notes": "",
+        "Notes": "use b,f+2 for extra dmg",
         "Start up frame": "17",
         "Tags": []
     },
@@ -1405,25 +1406,25 @@
     },
     {
         "Block frame": "-9",
-        "Command": "WS+1,2",
+        "Command": "WS 1,2",
         "Counter hit frame": "+9",
         "Damage": "12,12",
         "Gif": "https://gfycat.com/helplessrepulsivecoypu.gif",
         "Hit frame": "+4",
         "Hit level": "m,m",
-        "Notes": "Gap on block: 10f",
+        "Notes": "Gap on block: 11f",
         "Start up frame": "12~13",
         "Tags": []
     },
     {
         "Block frame": "+8",
-        "Command": "STB WS+1,2",
+        "Command": "STB WS 1,2",
         "Counter hit frame": "KNB",
         "Damage": "12,23",
         "Gif": "https://gfycat.com/completefluidfanworms.gif",
         "Hit frame": "KNB",
         "Hit level": "m,m",
-        "Notes": "Gap on block: 10f",
+        "Notes": "Gap on block: 11f",
         "Start up frame": "12~13",
         "Tags": []
     }

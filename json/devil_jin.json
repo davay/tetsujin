@@ -1475,10 +1475,10 @@
     {
         "Block frame": "-8~-6s",
         "Command": "f,n,d,d/f+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "25",
         "Gif": "https://gfycat.com/DimpledSaltyGnatcatcher.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "m(TJ)",
         "Notes": "",
         "Start up frame": "26~28 (29~) js5~",

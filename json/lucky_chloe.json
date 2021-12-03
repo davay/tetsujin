@@ -207,7 +207,7 @@
         "Command": "f+2,1",
         "Counter hit frame": "KND",
         "Damage": "12,20",
-        "Gif": "https://gfycat.com/HelpfulFewElkhound.gif",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flucky_chloe%2F011.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
@@ -1590,7 +1590,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "22",
+        "Start up frame": "22s",
         "Tags": []
     },
     {

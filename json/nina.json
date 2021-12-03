@@ -574,7 +574,7 @@
         "Counter hit frame": "+9",
         "Damage": "13,10",
         "Gif": "https://gfycat.com/AbandonedAmbitiousAtlanticbluetang.gif",
-        "Hit frame": "+5",
+        "Hit frame": "+2",
         "Hit level": "m,h",
         "Notes": "",
         "Start up frame": "13,30",
@@ -1920,7 +1920,7 @@
     {
         "Block frame": "-6",
         "Command": "d/f,d/f+1",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1+2",
         "Damage": "43",
         "Gif": "https://gfycat.com/GivingVainEuropeanpolecat.gif",
         "Hit frame": "KND",

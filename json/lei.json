@@ -4400,28 +4400,16 @@
     {
         "Block frame": "0",
         "Command": "DGN 1",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1",
         "Damage": "35",
-        "Gif": null,
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flei%2F077.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": ". Break with 1",
+        "Notes": "",
         "Start up frame": "25",
         "Tags": [
             "Throw"
         ]
-    },
-    {
-        "Block frame": "-",
-        "Command": "DGN 1,b",
-        "Counter hit frame": "-",
-        "Damage": "-",
-        "Gif": null,
-        "Hit frame": "-",
-        "Hit level": "(DGN)",
-        "Notes": "",
-        "Start up frame": "29",
-        "Tags": []
     },
     {
         "Block frame": "+4",

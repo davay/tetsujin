@@ -1463,7 +1463,7 @@
             "d+3+4 grounded opponent",
             "opponent down d+3+4",
             "grounded opponent d+3+4",
-            "Stomp"
+            "stomp"
         ],
         "Block frame": "-11",
         "Command": "opponent down d+3+4",
@@ -1952,7 +1952,7 @@
     {
         "Block frame": "-6",
         "Command": "f,F+1+2",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1+2",
         "Damage": "45",
         "Gif": "https://gfycat.com/RaggedJovialDarwinsfox.gif",
         "Hit frame": "KND",

@@ -7,9 +7,8 @@
         "Gif": "",
         "Hit frame": "throw",
         "Hit level": "m",
-        "Notes": "rage art",
         "Start up frame": "20 pc",
-        "Tags": []
+        "Tags": ["Rage Art"]
     },
     {
         "Block frame": "+2",
@@ -19,24 +18,9 @@
         "Gif": "",
         "Hit frame": "throw",
         "Hit level": "sm",
-        "Notes": "rage drive",
+        "Notes": "Rage drive",
         "Start up frame": "18",
-        "Tags": []
-    },
-    {
-        "Alias": [
-            "Toe Kick"
-        ],
-        "Block frame": "-20",
-        "Command": "FUFT d+3",
-        "Counter hit frame": "-3s",
-        "Damage": "6",
-        "Gif": "",
-        "Hit frame": "-3s",
-        "Hit level": "l",
-        "Notes": "",
-        "Start up frame": "13",
-        "Tags": []
+        "Tags": ["Rage Drive"]
     },
     {
         "Block frame": "+1",

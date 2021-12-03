@@ -1835,23 +1835,6 @@
     },
     {
         "Alias": [
-            "f,n,d,d/f+2"
-        ],
-        "Block frame": "-14",
-        "Command": "qcf+2",
-        "Counter hit frame": "SCD",
-        "Damage": "28",
-        "Gif": "",
-        "Hit frame": "+5k?",
-        "Hit level": "m",
-        "Notes": "",
-        "Start up frame": "14",
-        "Tags": [
-            "Screw"
-        ]
-    },
-    {
-        "Alias": [
             "NSS FC d/f+1"
         ],
         "Block frame": "-14",
@@ -4223,15 +4206,15 @@
         ]
     },
     {
-        "Block frame": "-",
+        "Block frame": "-14",
         "Command": "qcf+2",
         "Counter hit frame": "-",
-        "Damage": "22",
+        "Damage": "28",
         "Gif": "https://gfycat.com/FoolhardyCooperativeAnkolewatusi.gif",
-        "Hit frame": "0",
+        "Hit frame": "5",
         "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "15",
+        "Notes": "When Break Throw, self-harm damage 16 & enemy recovery 22.",
+        "Start up frame": "14",
         "Tags": [
             "Throw"
         ]
@@ -4254,11 +4237,11 @@
         "Block frame": "-",
         "Command": "qcb,f+2",
         "Counter hit frame": "-",
-        "Damage": "-",
+        "Damage": "0",
         "Gif": "https://gfycat.com/LawfulFocusedLeopard.gif",
         "Hit frame": "0",
         "Hit level": "h",
-        "Notes": "",
+        "Notes": "Self-harm damage 35 & enemy recovery 26.",
         "Start up frame": "15",
         "Tags": [
             "Throw"

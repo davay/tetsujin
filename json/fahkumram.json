@@ -700,10 +700,10 @@
     {
         "Block frame": "-23",
         "Command": "d/f+1,4~3,2",
-        "Counter hit frame": "Launch",
+        "Counter hit frame": "KND",
         "Damage": "10,15,23",
         "Gif": "https://gfycat.com/miserlynaivecormorant.gif",
-        "Hit frame": "Launch",
+        "Hit frame": "KND",
         "Hit level": "m,l,m",
         "Notes": "",
         "Start up frame": "13~14",

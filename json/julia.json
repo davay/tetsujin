@@ -1883,7 +1883,7 @@
         ],
         "Block frame": "-4",
         "Command": "d,d/b,b,f+2",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1+2",
         "Damage": "42",
         "Gif": "https://gfycat.com/ElderlyLividIzuthrush.gif",
         "Hit frame": "KND",

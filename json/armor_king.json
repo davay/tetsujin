@@ -415,7 +415,7 @@
         ]
     },
     {
-        "Block frame": "-12g",
+        "Block frame": "-6",
         "Command": "d/f+2,1",
         "Counter hit frame": "-1",
         "Damage": "21,8",
@@ -1708,10 +1708,10 @@
             "Throw"
         ]
     },
-    {
+    {   "Alias": ["giant swing", "gs"],
         "Block frame": "-7",
         "Command": "f,hcf+1",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1",
         "Damage": "65",
         "Gif": "https://gfycat.com/EmbarrassedQuickFurseal.gif",
         "Hit frame": "KND",

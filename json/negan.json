@@ -348,7 +348,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-15~-14",
         "Command": "f+1+2",
         "Counter hit frame": "JG",
         "Damage": "21",
@@ -356,7 +356,7 @@
         "Hit frame": "JG",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "24 pc8",
+        "Start up frame": "24~25 pc8",
         "Tags": [
             "Power Crush"
         ]
@@ -714,7 +714,7 @@
         "Command": "b+2,2",
         "Counter hit frame": "throw",
         "Damage": "15,20(30)",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Fnegan%2F051.mp4?alt=media",
         "Hit frame": "throw",
         "Hit level": "h,m",
         "Notes": "",
@@ -726,7 +726,7 @@
         "Command": "b+2,3",
         "Counter hit frame": "KND",
         "Damage": "15,20",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Fnegan%2F052.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "h,m",
         "Notes": "",

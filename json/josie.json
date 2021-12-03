@@ -1447,10 +1447,10 @@
     {
         "Block frame": "-13~-12",
         "Command": "d/f+2",
-        "Counter hit frame": "Launch (JG?)",
+        "Counter hit frame": "Launch",
         "Damage": "10",
         "Gif": "https://gfycat.com/CandidPastKiwi.gif",
-        "Hit frame": "Launch (JG?)",
+        "Hit frame": "Launch",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "15~16",

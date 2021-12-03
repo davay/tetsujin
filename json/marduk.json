@@ -533,6 +533,18 @@
         "Tags": []
     },
     {
+        "Block frame": "+cs",
+        "Command": "d/f+3,1+2,3+4",
+        "Counter hit frame": "+7s",
+        "Damage": "13,28",
+        "Gif": "",
+        "Hit frame": "+7s",
+        "Hit level": "m,h",
+        "Notes": "",
+        "Start up frame": "-",
+        "Tags": []
+    },
+    {
         "Block frame": "-12",
         "Command": "d/f+3,d/f+1",
         "Counter hit frame": "JG",
@@ -567,7 +579,7 @@
         "Hit frame": "+2",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "13",
+        "Start up frame": "13~14",
         "Tags": []
     },
     {
@@ -579,7 +591,7 @@
         "Hit frame": "+12k",
         "Hit level": "m,h",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "13~14",
         "Tags": [
             "Screw"
         ]
@@ -1037,10 +1049,10 @@
     {
         "Block frame": "-6",
         "Command": "u/f+1+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "21",
         "Gif": "https://gfycat.com/AnchoredFatalBittern.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "h",
         "Notes": "",
         "Start up frame": "17",
@@ -1573,7 +1585,7 @@
         "Hit level": "(cancel)",
         "Notes": "",
         "Start up frame": "12",
-        "Tags": []
+        "Tags": ["Throw"]
     },
     {
         "Alias": [
@@ -1602,7 +1614,7 @@
         "Hit level": "(cancel)",
         "Notes": "",
         "Start up frame": "12",
-        "Tags": []
+        "Tags": ["Throw"]
     },
     {
         "Block frame": "-4",

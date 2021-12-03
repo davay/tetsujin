@@ -1238,7 +1238,7 @@
         ],
         "Block frame": "-10~-9",
         "Command": "FC d/f+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "21",
         "Gif": "https://gfycat.com/YawningEnlightenedKestrel.gif",
         "Hit frame": "+13~+14kg",
@@ -1787,30 +1787,6 @@
         "Hit level": "l (TC)",
         "Notes": "",
         "Start up frame": "16s cs1~",
-        "Tags": []
-    },
-    {
-        "Block frame": "-4",
-        "Command": "ss 3",
-        "Counter hit frame": "+7",
-        "Damage": "14",
-        "Gif": "",
-        "Hit frame": "+7",
-        "Hit level": "m",
-        "Notes": "",
-        "Start up frame": "16(17~)",
-        "Tags": []
-    },
-    {
-        "Block frame": "-7",
-        "Command": "ss 4",
-        "Counter hit frame": "Launch (JG?)",
-        "Damage": "15",
-        "Gif": "",
-        "Hit frame": "+6",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "12(13~)",
         "Tags": []
     },
     {

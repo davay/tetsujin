@@ -470,13 +470,13 @@
         ]
     },
     {
-        "Block frame": "-12~-11",
+        "Block frame": "-16",
         "Command": "b+4,1+2,d",
         "Counter hit frame": "KND",
         "Damage": "15",
         "Gif": "",
         "Hit frame": "KND",
-        "Hit level": "m,m",
+        "Hit level": "m",
         "Notes": "Ends in crouch",
         "Start up frame": "18",
         "Tags": []
