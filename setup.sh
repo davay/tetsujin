@@ -41,6 +41,8 @@ Description=Mokujin Tekken Discord Bot
 Type=simple
 User=$USER
 ExecStart=/usr/bin/python3 $current_dir/src/mokujin.py
+Restart=on-failure
+RestartSec=60s
 
 [Install]
 WantedBy=multi-user.target" | sudo dd of=/etc/systemd/system/mokujin.service status=none
