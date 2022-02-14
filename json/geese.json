@@ -1192,18 +1192,6 @@
         ]
     },
     {
-        "Block frame": "+1",
-        "Command": "ss 1",
-        "Counter hit frame": "+8",
-        "Damage": "7",
-        "Gif": "",
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "10(11~)",
-        "Tags": []
-    },
-    {
         "Block frame": "-13",
         "Command": "ss 2",
         "Counter hit frame": "-4",
@@ -1227,21 +1215,6 @@
         "Recovery": "-27",
         "Start up frame": "19(28~)",
         "Tags": []
-    },
-    {
-        "Block frame": "-3",
-        "Command": "ss 4",
-        "Counter hit frame": "KND",
-        "Damage": "17",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "16(17~)",
-        "Tags": [
-            "Screw",
-            "Homing"
-        ]
     },
     {
         "Alias": [

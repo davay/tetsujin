@@ -1130,7 +1130,7 @@
         "Hit frame": "Launch",
         "Hit level": "h,m,(RLX)",
         "Notes": "",
-        "Start up frame": "ar~15",
+        "Start up frame": "13",
         "Tags": []
     },
     {
@@ -1142,7 +1142,7 @@
         "Hit frame": "+10kg",
         "Hit level": "h,h",
         "Notes": "",
-        "Start up frame": "~15",
+        "Start up frame": "",
         "Tags": [
             "Screw"
         ]

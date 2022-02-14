@@ -143,7 +143,7 @@
     {
         "Block frame": "-12~-11",
         "Command": "2,1,3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "10,10,20",
         "Gif": "https://gfycat.com/SpicyKaleidoscopicKid.gif",
         "Hit frame": "KND",
@@ -1162,7 +1162,7 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "12~13",
-        "Tags": []
+        "Tags": ["Wall Bounce"]
     },
     {
         "Block frame": "-12~-11",
@@ -1197,7 +1197,7 @@
         "Hit frame": "Launch (Screw)",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "20~21",
+        "Start up frame": "20~21 pc8~",
         "Tags": [
             "Screw",
             "Homing",
@@ -1286,7 +1286,7 @@
         "Damage": "19",
         "Gif": "https://gfycat.com/SomeAdeptAfricanmolesnake.gif",
         "Hit frame": "+7~+9",
-        "Hit level": "m?",
+        "Hit level": "m",
         "Notes": "",
         "Start up frame": "17~19 (32~)",
         "Tags": []

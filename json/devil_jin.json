@@ -16,13 +16,13 @@
     {
         "Block frame": "-14",
         "Command": "in rage f,n,d,d/f+4,3+4",
-        "Counter hit frame": "BU",
+        "Counter hit frame": "Launch",
         "Damage": "10,5,5",
         "Gif": "",
-        "Hit frame": "BU",
+        "Hit frame": "Launch",
         "Hit level": "l,m,m(TJ)",
         "Notes": "",
-        "Start up frame": "30 js16~",
+        "Start up frame": "16",
         "Tags": [
             "Rage Drive"
         ]

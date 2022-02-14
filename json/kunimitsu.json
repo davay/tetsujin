@@ -536,9 +536,9 @@
         "Block frame": "-9",
         "Command": "SET 2",
         "Counter hit frame": "Launch",
-        "Damage": "17 (30 on ch)",
+        "Damage": "17",
         "Gif": "https://gfycat.com/parallelsillygenet.gif",
-        "Hit frame": "+12g",
+        "Hit frame": "+12kg",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "12",
@@ -547,7 +547,7 @@
         ]
     },
     {
-        "Block frame": "-16",
+        "Block frame": "-16~-11",
         "Command": "SET 3",
         "Counter hit frame": "Launch",
         "Damage": "17",
@@ -1359,6 +1359,33 @@
         "Hit level": "m,m",
         "Notes": "-",
         "Start up frame": "14",
+        "Tags": []
+    },
+    {
+        "Alias": [
+            "BT b+2+4"
+        ],
+        "Block frame": "-",
+        "Command": "BT b+1+3",
+        "Counter hit frame": "-",
+        "Damage": "25",
+        "Gif": "",
+        "Hit frame": "!",
+        "Hit level": "Reversal h/m",
+        "Notes": "",
+        "Start up frame": "3~12. Total 42",
+        "Tags": []
+    },
+    {
+        "Block frame": "-",
+        "Command": "BT b+3+4",
+        "Counter hit frame": "-",
+        "Damage": "25",
+        "Gif": "",
+        "Hit frame": "!",
+        "Hit level": "Reversal h/m",
+        "Notes": "",
+        "Start up frame": "3~18. Total 40",
         "Tags": []
     },
     {

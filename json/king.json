@@ -1551,6 +1551,18 @@
         ]
     },
     {
+        "Block frame": "-",
+        "Command": "b+2+4",
+        "Counter hit frame": "-",
+        "Damage": "25+50%",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "-",
+        "Notes": "Absorbs kicks",
+        "Start up frame": "2~10f",
+        "Tags": []
+    },
+    {
         "Block frame": "-6",
         "Command": "FC d/b,b,d/b+1+2",
         "Counter hit frame": "1+2",

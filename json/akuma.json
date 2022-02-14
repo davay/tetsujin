@@ -609,7 +609,7 @@
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "15(16~)",
-        "Tags": []
+        "Tags": ["Wall bounce"]
     },
     {
         "Block frame": "0~+1",
@@ -866,7 +866,7 @@
         "Block frame": "-12~",
         "Command": "hcb+1",
         "Counter hit frame": "-4",
-        "Damage": "12",
+        "Damage": "13",
         "Gif": "https://gfycat.com/BlueTallAtlanticsharpnosepuffer.gif",
         "Hit frame": "-4",
         "Hit level": "Sm",

@@ -73,7 +73,7 @@
         "Damage": "10",
         "Gif": null,
         "Hit frame": "+7",
-        "Hit level": "l",
+        "Hit level": "h",
         "Notes": "",
         "Recovery": "-17",
         "Start up frame": "10",
@@ -402,7 +402,7 @@
     {
         "Block frame": "-12",
         "Command": "d/f+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "21",
         "Gif": "https://gfycat.com/SplendidTenseAcornwoodpecker.gif",
         "Hit frame": "+4",

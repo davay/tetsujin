@@ -33,7 +33,7 @@ CHARACTER_ALIAS = {
     'lili': ['lil'],
     'lidia': ['lid', 'lidl'],
     'lucky_chloe': ['lucky', 'luckychloe', 'lck', 'lc', 'chloe'],
-    'marduk': ['mdk', 'mar', 'duk'],
+    'marduk': ['mdk', 'mar', 'duk', 'craig'],
     'master_raven': ['masterraven', 'mraven', 'maven', 'mrv', 'raven', 'mr'],
     'miguel': ['mig'],
     'negan': ['ngn', 'neg'],
@@ -86,7 +86,9 @@ REPLACE = {
     '*+': '*'
 }
 
-
-BLACKLIST = [""]
+BLACKLIST = ['ImVeryBad#5231', 'Nape Brasslers#1131', 'Sleepii#1337', 'iaa ibb beb ib#0000', 'ГЕНИЙ#5448', 'Beeno#6524',
+             'Gigass-7#6960', 'nickname#0000', 'Sleepii#6666', 'scrotum buster#6919', 'Woozle#6308', 'Iam#1001',
+             'ImVeryBad#5231']
+ID_BLACKLIST = [240521686531702784]
 
 EMOJI_LIST = ['1\ufe0f\u20e3', '2\ufe0f\u20e3', '3\ufe0f\u20e3', '4\ufe0f\u20e3', '5\ufe0f\u20e3']

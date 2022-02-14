@@ -926,11 +926,10 @@
     {
         "Alias": [
             "u/b+3,4",
-            "u+3,4",
-            "u/f+3,4"
+            "u+3,4"
         ],
-        "Block frame": "-17~-16",
-        "Command": "u/b_u_u/f+3,4",
+        "Block frame": "-9",
+        "Command": "u/f+3,4",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "25,23",
         "Gif": "https://gfycat.com/accuratepartialandeancat.gif",
@@ -1899,7 +1898,7 @@
             "BT u/f+3,4"
         ],
         "Block frame": "-18~-16",
-        "Command": "BT u/b_u_u/f+3,4",
+        "Command": "BT u/f+3,4",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "25,23",
         "Gif": "",
@@ -2650,7 +2649,7 @@
         "Command": "u/f+4",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "14",
-        "Gif": "https://gfycat.com/FaroffCommonFattaileddunnart.gif",
+        "Gif": "",
         "Hit frame": "Launch (JG?)",
         "Hit level": "m (TJ)",
         "Notes": "",

@@ -1443,7 +1443,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-2",
+        "Block frame": "-5",
         "Command": "BT f+2",
         "Counter hit frame": "+6~+7",
         "Damage": "13",
@@ -1451,7 +1451,7 @@
         "Hit frame": "+6~+7",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "16~17",
+        "Start up frame": "17~18",
         "Tags": []
     },
     {

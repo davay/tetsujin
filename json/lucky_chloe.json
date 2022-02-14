@@ -1114,7 +1114,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-15~-14",
         "Command": "u/f+3",
         "Counter hit frame": "Launch",
         "Damage": "13",
@@ -1548,10 +1548,10 @@
     {
         "Block frame": "-11",
         "Command": "d/b+3",
-        "Counter hit frame": "+7s",
+        "Counter hit frame": "+8s",
         "Damage": "17",
         "Gif": "https://gfycat.com/WateryLastAustrianpinscher.gif",
-        "Hit frame": "+7s",
+        "Hit frame": "+8s",
         "Hit level": "l,(TWISTL)",
         "Notes": "",
         "Start up frame": "15",
