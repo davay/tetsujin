@@ -3382,7 +3382,7 @@
         "Block frame": "-3s",
         "Command": "BT 4,4",
         "Counter hit frame": "KND",
-        "Damage": "15,2",
+        "Damage": "15,20",
         "Gif": "https://gfycat.com/TemptingShorttermBellfrog.gif",
         "Hit frame": "+1s",
         "Hit level": "m,m (TJ)",

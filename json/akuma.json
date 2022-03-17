@@ -337,7 +337,7 @@
         "Hit frame": "+7~+8",
         "Hit level": "m",
         "Notes": "",
-        "Recovery": "-17",
+        "Recovery": "-19",
         "Start up frame": "13~14",
         "Tags": []
     },
@@ -1062,7 +1062,7 @@
         "Command": "qcb+4",
         "Counter hit frame": "KND",
         "Damage": "13,6,6,6",
-        "Gif": "https://gfycat.com/SilverHospitableHyena.gif",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Fakuma%2F016.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "Sm (TJ),h x 3",
         "Notes": "",

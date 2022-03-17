@@ -417,10 +417,10 @@
     {
         "Block frame": "-6",
         "Command": "d/f+2,1",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+5",
         "Damage": "21,8",
         "Gif": null,
-        "Hit frame": "-1",
+        "Hit frame": "+5",
         "Hit level": "m,h",
         "Notes": "",
         "Recovery": "-23",

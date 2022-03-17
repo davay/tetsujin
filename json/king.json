@@ -17,7 +17,7 @@
         "Alias": [
             "Spring Kick"
         ],
-        "Block frame": "-27~-17",
+        "Block frame": "-27~-16",
         "Command": "FUFT 3+4",
         "Counter hit frame": "KND",
         "Damage": "25",
@@ -25,7 +25,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "16~28b? Needs checking",
+        "Start up frame": "16~28b?",
         "Tags": []
     },
     {

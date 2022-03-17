@@ -1205,7 +1205,7 @@
         "Hit frame": "+1",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "15",
+        "Start up frame": "14~15",
         "Tags": [
             "Homing"
         ]
@@ -2075,18 +2075,6 @@
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "12~14 (28~)",
-        "Tags": []
-    },
-    {
-        "Block frame": "-11",
-        "Command": "CJM d+3",
-        "Counter hit frame": "+0",
-        "Damage": "18",
-        "Gif": "-",
-        "Hit frame": "+0",
-        "Hit level": "m",
-        "Notes": "-",
-        "Start up frame": "15 (31~)",
         "Tags": []
     },
     {

@@ -989,7 +989,7 @@
         "Tags": []
     },
     {
-        "Block frame": "+11",
+        "Block frame": "+11g",
         "Command": "f,f,f+1+2",
         "Counter hit frame": "JG",
         "Damage": "25",
