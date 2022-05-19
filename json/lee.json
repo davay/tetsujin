@@ -1487,7 +1487,7 @@
             "FC u/f+4,3"
         ],
         "Block frame": "-17~-7",
-        "Command": "FC u/b_u_u/f+4,3",
+        "Command": "FC u/f+4,3",
         "Counter hit frame": "Launch (JG?) (-6~+4)",
         "Damage": "25",
         "Gif": "",
@@ -1510,32 +1510,16 @@
         "Tags": []
     },
     {
-        "Alias": [
-            "FC u/b+4,d",
-            "FC u+4,d",
-            "FC u/f+4,d"
-        ],
-        "Block frame": "-31~-28",
-        "Command": "FC u/b_u_U/F+4,d",
+
+        "Block frame": "-31",
+        "Command": "FC u/f*+4",
         "Counter hit frame": "KND",
-        "Damage": "25",
-        "Gif": "",
-        "Hit frame": "KND (-20~-17)",
+        "Damage": "30",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flee%2F091.mp4?alt=media",
+        "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "18 js9~",
-        "Tags": []
-    },
-    {
-        "Block frame": "-17",
-        "Command": "FC u/f+4",
-        "Counter hit frame": "Launch",
-        "Damage": "25",
-        "Gif": "",
-        "Hit frame": "Launch",
-        "Hit level": "m",
-        "Notes": "",
-        "Start up frame": "18 js9~",
+        "Start up frame": "14 js9~",
         "Tags": []
     },
     {

@@ -621,7 +621,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-10",
+        "Block frame": "-12",
         "Command": "d+2,2,d+1",
         "Counter hit frame": "KND",
         "Damage": "16,22,22",

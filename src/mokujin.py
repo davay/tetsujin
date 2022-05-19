@@ -109,7 +109,7 @@ async def on_message(message):
                     result = {"embed": embed.success_embed(messages)}
                 except Exception as e:
                     result = {"embed": embed.error_embed(e)}
-                await channel.send(embed=result)
+                await channel.send(embed=result["embed"])
 
             elif message.content.startswith("!auto-delete"):
 

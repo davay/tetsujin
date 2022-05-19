@@ -1198,7 +1198,7 @@
     {
         "Block frame": "-6",
         "Command": "3",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "KND",
         "Damage": "21",
         "Gif": null,
         "Hit frame": "-1",

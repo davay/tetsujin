@@ -231,7 +231,7 @@
     {
         "Block frame": "-2~-1",
         "Command": "f+2,1+2",
-        "Counter hit frame": "KND(+13kg)",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "12,6,20",
         "Gif": "https://gfycat.com/IgnorantCarefulEchidna.gif",
         "Hit frame": "+13kg",
@@ -810,7 +810,7 @@
         "Tags": []
     },
     {
-        "Block frame": "?",
+        "Block frame": "-45",
         "Command": "BT f+3+4,3+4",
         "Counter hit frame": "CS",
         "Damage": "17,20",

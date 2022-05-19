@@ -748,7 +748,19 @@
         "Hit frame": "-12~-7",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "ar16~",
+        "Start up frame": "14",
+        "Tags": []
+    },
+    {
+        "Block frame": "-100",
+        "Command": "b+1,4,b",
+        "Counter hit frame": "-89",
+        "Damage": "16,10",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feddy%2F056.mp4?alt=media",
+        "Hit frame": "-89",
+        "Hit level": "m,m",
+        "Notes": "",
+        "Start up frame": "14",
         "Tags": []
     },
     {
@@ -1173,11 +1185,10 @@
     },
     {
         "Alias": [
-            "FC d/b+1+2",
-            "FC d+1+2"
+            "FC d/b+1+2"
         ],
         "Block frame": "-14~-12",
-        "Command": "FC d/b_d+1+2",
+        "Command": "FC d+1+2",
         "Counter hit frame": "+4~+6",
         "Damage": "11",
         "Gif": "",
@@ -1189,14 +1200,13 @@
     },
     {
         "Alias": [
-            "FC d/b+1+2,1+2",
-            "FC d+1+2,1+2"
+            "FC d/b+1+2,1+2"
         ],
         "Block frame": "-14~-12",
-        "Command": "FC d/b_d+1+2,1+2",
+        "Command": "FC d+1+2,1+2",
         "Counter hit frame": "KND",
         "Damage": "11,12",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feddy%2F095.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "m (TC),m",
         "Notes": "",
@@ -2483,6 +2493,18 @@
         "Damage": "10",
         "Gif": "https://gfycat.com/PerfectEnormousChihuahua.gif",
         "Hit frame": "-12~-7",
+        "Hit level": "m",
+        "Notes": "",
+        "Start up frame": "23~28 ar16~",
+        "Tags": []
+    },
+    {
+        "Block frame": "-1",
+        "Command": "f+4",
+        "Counter hit frame": "+10",
+        "Damage": "10",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feddy%2F025.mp4?alt=media",
+        "Hit frame": "+10g",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "23~28 ar16~",

@@ -70,9 +70,9 @@
             "in rage d/f+2+3~DCK"
         ],
         "Block frame": "+15g",
-        "Command": "in rage d/f+2+3~f+(3_4)",
+        "Command": "in rage d/f+2+3~f+3",
         "Counter hit frame": "JG",
-        "Damage": "14,21",
+        "Damage": "5,21",
         "Gif": "",
         "Hit frame": "JG",
         "Hit level": "m,m,(DCK)",

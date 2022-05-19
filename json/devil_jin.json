@@ -1442,7 +1442,8 @@
     {
         "Alias": [
             "Electric",
-            "EWGF"
+            "EWGF",
+            "EWHF"
         ],
         "Block frame": "+5~+6",
         "Command": "f,n,d,d/f:2",
@@ -1452,7 +1453,7 @@
         "Hit frame": "Launch (JG?)",
         "Hit level": "h",
         "Notes": "",
-        "Recovery": "-24",
+        "Recovery": "-28",
         "Start up frame": "11~12 (14~)",
         "Tags": []
     },
