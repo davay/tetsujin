@@ -21,9 +21,9 @@ discord_token=""
 current_dir=$(pwd)
 
 printf "\n"
-echo "==============================================================================="
-echo "Please input Discord Bot Token, see https://discord.com/developers/applications"
-echo "==============================================================================="
+echo "====================================================================================="
+echo "Please input Discord Bot Token, see https://discord.com/developers/applications > Bot"
+echo "====================================================================================="
 printf "\n"
 
 read -p "Token: " discord_token
