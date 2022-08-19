@@ -4,6 +4,7 @@ import re
 
 MOVE_NOT_FOUND_TITLE = 'Move not found'
 
+
 def move_embed(character, move):
     """Returns the embed message for character and move"""
     embed = discord.Embed(title=character['proper_name'],
@@ -13,11 +14,11 @@ def move_embed(character, move):
     embed.set_thumbnail(url=character['portrait'])
 
     block = "Block"
-    counterhit ="Counter hit"
+    counterhit = "Counter hit"
 
     if 'Throw' in move['Tags']:
         block = "On Break"
-        counterhit ="Break Type"
+        counterhit = "Break Type"
 
     embed.add_field(name='Property', value=move['Hit level'])
     embed.add_field(name='Damage', value=move['Damage'])
@@ -39,11 +40,14 @@ def move_embed(character, move):
         embed.add_field(name='Notes', value=move['Notes'])
     if 'Gif' in move and move['Gif'] and not move['Gif'] == "-":
         embed.add_field(name='Gif', value=move['Gif'], inline=False)
+    if 'Tags' in move and move['Tags'] and not move['Tags'] == "-":
+        embed.add_field(name='Tags', value=move['Tags'], inline=False)
 
-    random_value = randint(0, 10)
-    # every 10th time
-    if random_value == 0:
-        embed.add_field(name='Dev Note', value='Also dont forget to check !help to get the newest features :)',
+    random_value = randint(0, 2)
+    # every 3th time
+    if random_value == 2:
+        embed.add_field(name='Dev Note',
+                        value='**IMPORTANT** \n You can now ping the bot and get frame data by typing <character> <move> \n Example: @T7FrameBot ak df1',
                         inline=False)
 
     return embed
@@ -77,24 +81,20 @@ def success_embed(message):
 
 
 def similar_moves_embed(similar_moves, character_name):
-
     for i in range(len(similar_moves)):
-        similar_moves[i] = f'**{i+1}**. {similar_moves[i]}'
+        similar_moves[i] = f'**{i + 1}**. {similar_moves[i]}'
 
     embed = discord.Embed(title=MOVE_NOT_FOUND_TITLE, colour=0xfcba03,
                           description='Similar moves from {}\n{}'
                           .format(character_name, '\n'.join(similar_moves)))
     return embed
 
+
 def help_embed():
     text = "" \
-           "!character move\t\t\t- get frame data of a move from a character \n" \
-           "!auto-delete seconds\t\t\t- change the duration of the bot waiting until he deletes the message in " \
-           "this channel (-1 = deactivate)\n" \
-           "!last-updates\t\t\t- get the messages of some latest updates\n" \
-           "?feedback message\t\t\t- send message including sender name to the devs \n\n " \
-           "This bot deletes its messages after 20 seconds normally. You can configure this by using !auto-delete " \
-           "function "
+           "/fd <character> <move>\t\t\t- get frame data of a move from a character \n" \
+           "/last-updates\t\t\t- get the messages of some latest updates\n" \
+           "/feedback <message>\t\t\t- send message including sender name to the devs \n\n "
     embed = discord.Embed(title='Commands', description=text, colour=0x37ba25)
     embed.set_author(name='Author: Tib#1303')
 

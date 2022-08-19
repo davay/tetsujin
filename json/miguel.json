@@ -1014,7 +1014,7 @@
         ]
     },
     {
-        "Block frame": "-21~-20",
+        "Block frame": "-18",
         "Command": "SAV 1+2",
         "Counter hit frame": "Launch",
         "Damage": "20(5)",
@@ -1028,7 +1028,7 @@
         ]
     },
     {
-        "Block frame": "-12~-11",
+        "Block frame": "+7 (11g)",
         "Command": "SAV 1+2*",
         "Counter hit frame": "Launch",
         "Damage": "23(5)",
@@ -1038,7 +1038,8 @@
         "Notes": "",
         "Start up frame": "41~42 (51~) pc6~27",
         "Tags": [
-            "Power Crush"
+            "Power Crush",
+            "Wall Crush"
         ]
     },
     {
@@ -1155,7 +1156,7 @@
         "Counter hit frame": "KND",
         "Damage": "23",
         "Gif": "https://gfycat.com/NearColdChuckwalla.gif",
-        "Hit frame": "+4s~+5s",
+        "Hit frame": "+4~+5",
         "Hit level": "l",
         "Notes": "",
         "Start up frame": "19~20 (29~)",
@@ -1167,7 +1168,7 @@
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/NearColdChuckwalla.gif",
-        "Hit frame": "+4s~+5s",
+        "Hit frame": "+4~+5",
         "Hit level": "l,(SAV)",
         "Notes": "",
         "Start up frame": "19~20 (29~)",
@@ -1280,7 +1281,7 @@
     {
         "Block frame": "-9~-8",
         "Command": "SAV u/f+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "25",
         "Gif": "https://gfycat.com/CalculatingEarnestIndianrockpython.gif",
         "Hit frame": "KND",

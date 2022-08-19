@@ -934,9 +934,11 @@
         "Gif": "",
         "Hit frame": "+5",
         "Hit level": "h",
-        "Notes": "homing",
+        "Notes": "-",
         "Start up frame": "21~23",
-        "Tags": []
+        "Tags": [
+            "Homing"
+        ]
     },
     {
         "Block frame": "-6",
@@ -1132,7 +1134,9 @@
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "21~22",
-        "Tags": []
+        "Tags": [
+            "Homing"
+        ]
     },
     {
         "Block frame": "-10~-9",
@@ -1244,7 +1248,7 @@
     },
     {
         "Block frame": "+5",
-        "Command": "b,f+2+3",
+        "Command": "b,f+2",
         "Counter hit frame": "Launch",
         "Damage": "22",
         "Gif": "https://gfycat.com/improbablecluelessasianelephant.gif",
@@ -1679,7 +1683,7 @@
         ]
     },
     {
-        "Block frame": "-24",
+        "Block frame": "+3 (+5g)",
         "Command": "TCH f+1+2",
         "Counter hit frame": "KND",
         "Damage": "35",
@@ -1688,7 +1692,7 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "20~25",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "KND",

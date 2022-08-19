@@ -1,3 +1,5 @@
+discord-py-interactions==4.1.0
+discord-py-slash-command==3.0.3
+discord.py @ git+https://github.com/Rapptz/discord.py@7e3b08871badb8328413a50b25ab58b84d5ab692
 discord-components==1.1.4
-discord.py==1.7.3
 PyGithub==1.55

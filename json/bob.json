@@ -666,9 +666,9 @@
         "Tags": []
     },
     {
-        "Block frame": "-",
+        "Block frame": "-28",
         "Command": "d/b+3+4,4",
-        "Counter hit frame": "-",
+        "Counter hit frame": "+8s",
         "Damage": "10,18",
         "Gif": "https://gfycat.com/ImpolitePlainDobermanpinscher.gif",
         "Hit frame": "+8s",
@@ -945,12 +945,13 @@
         "Counter hit frame": "KND",
         "Damage": "15,20",
         "Gif": "https://gfycat.com/ClearcutDimArabianwildcat.gif",
-        "Hit frame": "+14~+15kg",
+        "Hit frame": "+11kg (19g)",
         "Hit level": "m(TJ),h(TJ)",
         "Notes": "",
         "Start up frame": "16 js10~",
         "Tags": [
-            "Screw"
+            "Screw",
+            "Wall Crush"
         ]
     },
     {

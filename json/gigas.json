@@ -896,16 +896,16 @@
         "Tags": []
     },
     {
-        "Block frame": "-9",
+        "Block frame": "-4",
         "Command": "f,F+3",
         "Counter hit frame": "CS",
         "Damage": "23",
         "Gif": "https://gfycat.com/YawningGentleInvisiblerail.gif",
-        "Hit frame": "+3",
+        "Hit frame": "+8 (20g)",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "17(18~)",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-8",
@@ -972,7 +972,7 @@
     {
         "Block frame": "-7~-6",
         "Command": "WS 1",
-        "Counter hit frame": "+5~+6",
+        "Counter hit frame": "+219g",
         "Damage": "17",
         "Gif": "https://gfycat.com/ReasonableImperfectAmurstarfish.gif",
         "Hit frame": "+5~+6",
@@ -1699,24 +1699,24 @@
         "Tags": []
     },
     {
-        "Block frame": "-9~-8",
+        "Block frame": "-7",
         "Command": "3",
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "https://gfycat.com/DeepAgedGiantschnauzer.gif",
-        "Hit frame": "+2~+3",
+        "Hit frame": "+4~+5",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "14~15",
         "Tags": []
     },
     {
-        "Block frame": "-9~-8",
+        "Block frame": "-7",
         "Command": "4",
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/DistantInfatuatedArmyant.gif",
-        "Hit frame": "+4~+5",
+        "Hit frame": "+6~+7",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "16~17",

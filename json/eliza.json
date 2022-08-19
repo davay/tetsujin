@@ -657,7 +657,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-9",
+        "Block frame": "+7 (+21g)",
         "Command": "EX MG 2",
         "Counter hit frame": "KND",
         "Damage": "25",
@@ -667,7 +667,8 @@
         "Notes": "(if transitioned)",
         "Start up frame": "14(29~)",
         "Tags": [
-            "Wall Bounce"
+            "Wall Bounce",
+            "Wall Crush"
         ]
     },
     {

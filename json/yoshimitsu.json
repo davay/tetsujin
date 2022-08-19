@@ -385,9 +385,9 @@
         "Tags": []
     },
     {
-        "Block frame": "-8?~-7",
+        "Block frame": "-8~-7",
         "Command": "f+1+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "29",
         "Gif": "https://gfycat.com/ElderlyCommonIbizanhound.gif",
         "Hit frame": "KND",
@@ -1956,7 +1956,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-12",
+        "Block frame": "-9",
         "Command": "KIN 1,1",
         "Counter hit frame": "+4s",
         "Damage": "13,6,20",
@@ -2085,7 +2085,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-13",
+        "Block frame": "+7 (+14g)",
         "Command": "KIN f+2",
         "Counter hit frame": "SCD",
         "Damage": "33",
@@ -2094,7 +2094,7 @@
         "Hit level": "h",
         "Notes": "",
         "Start up frame": "12(27~)",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-9",

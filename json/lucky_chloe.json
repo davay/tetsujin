@@ -345,7 +345,7 @@
         "Command": "d/f+3,3",
         "Counter hit frame": "+7k",
         "Damage": "15,20",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flucky_chloe%2F024.mp4?alt=media",
         "Hit frame": "+7k",
         "Hit level": "m,m",
         "Notes": "",
@@ -360,9 +360,9 @@
             "d+3+4"
         ],
         "Block frame": "-13",
-        "Command": "d+3+4_d/b+3+4",
+        "Command": "d+3+4",
         "Counter hit frame": "-2",
-        "Damage": "5,5,5",
+        "Damage": "6,6,6",
         "Gif": "https://gfycat.com/InnocentMassiveGreendarnerdragonfly.gif",
         "Hit frame": "-2",
         "Hit level": "lll",
@@ -556,7 +556,7 @@
         "Tags": []
     },
     {
-        "Block frame": "+6~+9",
+        "Block frame": "+7~+10",
         "Command": "f,f,f+3",
         "Counter hit frame": "KND",
         "Damage": "27",
@@ -596,7 +596,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-14~-13",
+        "Block frame": "-13",
         "Command": "FC d/f+1",
         "Counter hit frame": "KND",
         "Damage": "18",
@@ -610,7 +610,7 @@
     {
         "Block frame": "-7~-6",
         "Command": "FC d/f+2",
-        "Counter hit frame": "+15~+16kg",
+        "Counter hit frame": "KND",
         "Damage": "15",
         "Gif": "https://gfycat.com/LikelySilentCurlew.gif",
         "Hit frame": "+15~+16kg",
@@ -638,7 +638,7 @@
         "Block frame": "-9~-8",
         "Command": "ss 4",
         "Counter hit frame": "KND",
-        "Damage": "17",
+        "Damage": "19",
         "Gif": "https://gfycat.com/BeneficialGrimyChrysomelid.gif",
         "Hit frame": "+2~+3",
         "Hit level": "l",
@@ -794,7 +794,7 @@
         "Hit frame": "KND",
         "Hit level": "l(TC)",
         "Notes": "",
-        "Start up frame": "23s cs4~",
+        "Start up frame": "22s cs4~",
         "Tags": []
     },
     {
@@ -822,7 +822,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-8",
+        "Block frame": "+11g (25g)",
         "Command": "BT f+3+4,3+4,3+4",
         "Counter hit frame": "KND",
         "Damage": "17,20,30",
@@ -831,7 +831,7 @@
         "Hit level": "m,m,m",
         "Notes": "Gap after blocking 2nd hit: 14f",
         "Start up frame": "24",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-",
@@ -1375,7 +1375,7 @@
     {
         "Block frame": "-7",
         "Command": "3",
-        "Counter hit frame": "+4",
+        "Counter hit frame": "+9",
         "Damage": "14",
         "Gif": null,
         "Hit frame": "+4",

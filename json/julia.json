@@ -1060,7 +1060,7 @@
         "Block frame": "-13",
         "Command": "u/f+3+4 ",
         "Counter hit frame": "KND",
-        "Damage": "27",
+        "Damage": "25",
         "Gif": "https://gfycat.com/WeakAdeptAzurevase.gif",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
@@ -1122,7 +1122,7 @@
         "Block frame": "-14",
         "Command": "F,F+3",
         "Counter hit frame": "KND",
-        "Damage": "21",
+        "Damage": "18",
         "Gif": "https://gfycat.com/NiftyGoodHammerkop.gif",
         "Hit frame": "KND",
         "Hit level": "m",
@@ -1140,9 +1140,7 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "13 (14~)",
-        "Tags": [
-            "Wall Bounce"
-        ]
+        "Tags": []
     },
     {
         "Block frame": "-6",
@@ -1422,13 +1420,14 @@
         "Counter hit frame": "KND",
         "Damage": "21",
         "Gif": "https://gfycat.com/JubilantFlakyGrasshopper.gif",
-        "Hit frame": "+15k",
+        "Hit frame": "+12g (24g)",
         "Hit level": "m ",
         "Notes": "",
         "Start up frame": "14",
         "Tags": [
             "Screw",
-            "Homing"
+            "Homing",
+            "Wall Crush"
         ]
     },
     {

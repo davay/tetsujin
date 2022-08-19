@@ -795,7 +795,7 @@
         "Command": "b+1:1+2",
         "Counter hit frame": "Throw",
         "Damage": "14,36",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Fzafina%2F031.mp4?alt=media",
         "Hit frame": "Throw",
         "Hit level": "m",
         "Notes": "",
@@ -1020,7 +1020,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-7",
+        "Block frame": "-1 (+11g)",
         "Command": "u/f+1+2",
         "Counter hit frame": "CS",
         "Damage": "20",
@@ -1029,7 +1029,7 @@
         "Hit level": "m (TJ) (TRT)",
         "Notes": "",
         "Start up frame": "21 js9",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-",

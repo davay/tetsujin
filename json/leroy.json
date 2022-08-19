@@ -66,14 +66,14 @@
     {
         "Block frame": "-16",
         "Command": "1,1,1+2,1",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "+4 (+16g)",
         "Damage": "7,7,3,3,3,3,15",
         "Gif": "https://gfycat.com/impressionableidealgraysquirrel.gif",
-        "Hit frame": "KND",
+        "Hit frame": "+4 (+16g)",
         "Hit level": "h,m,h,h,h,h,m",
         "Notes": "",
         "Start up frame": "10",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-1",
@@ -344,7 +344,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-6",
+        "Block frame": "-9",
         "Command": "f+2,3,4",
         "Counter hit frame": "+8",
         "Damage": "15,15,20",
@@ -784,7 +784,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-9",
+        "Block frame": "-10",
         "Command": "b+1+2",
         "Counter hit frame": "Launch (CS)",
         "Damage": "17",
@@ -810,10 +810,10 @@
     {
         "Block frame": "-6",
         "Command": "b+3",
-        "Counter hit frame": "Launch (S!)",
+        "Counter hit frame": "KND",
         "Damage": "21",
         "Gif": "https://gfycat.com/selfreliantyearlyfoxterrier.gif",
-        "Hit frame": "Launch (S!)",
+        "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "",
         "Start up frame": "18~19 js9~",
@@ -824,10 +824,10 @@
     {
         "Block frame": "-8",
         "Command": "b+4",
-        "Counter hit frame": "+11kg",
+        "Counter hit frame": "+5",
         "Damage": "21",
         "Gif": "https://gfycat.com/needybreakabledeer.gif",
-        "Hit frame": "+11kg",
+        "Hit frame": "+5",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "17~18",
@@ -931,7 +931,7 @@
             "b+2,1",
             "b+2,2"
         ],
-        "Block frame": "-9",
+        "Block frame": "-10",
         "Command": "b+2,2",
         "Counter hit frame": "+7",
         "Damage": "5,5,5,5,10",
@@ -955,7 +955,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-13",
+        "Block frame": "-15",
         "Command": "f,f+2,2",
         "Counter hit frame": "CS",
         "Damage": "8,13",
@@ -1039,12 +1039,12 @@
         "Tags": []
     },
     {
-        "Block frame": "-6",
+        "Block frame": "-9",
         "Command": "WS 1,4",
-        "Counter hit frame": "+6",
+        "Counter hit frame": "+3",
         "Damage": "14,16",
         "Gif": "https://gfycat.com/idealwellworncygnet.gif",
-        "Hit frame": "+6",
+        "Hit frame": "+3",
         "Hit level": "m,m,(HRM)",
         "Notes": "",
         "Start up frame": "13~14",

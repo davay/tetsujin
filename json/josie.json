@@ -305,14 +305,14 @@
     {
         "Block frame": "-10~-9",
         "Command": "f+4,3",
-        "Counter hit frame": "+1~+2",
+        "Counter hit frame": "KND",
         "Damage": "13,14",
         "Gif": "https://gfycat.com/LawfulFragrantGelding.gif",
-        "Hit frame": "+1~+2",
+        "Hit frame": "+8 (+23g)",
         "Hit level": "m,m",
-        "Notes": "",
+        "Notes": "10f delayable",
         "Start up frame": "17",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-5~-4",
@@ -830,7 +830,7 @@
         "Counter hit frame": "Launch",
         "Damage": "17",
         "Gif": "https://gfycat.com/ClassicOpenCoral.gif",
-        "Hit frame": "-1",
+        "Hit frame": "+2",
         "Hit level": "l",
         "Notes": "",
         "Start up frame": "20",
@@ -1448,7 +1448,7 @@
         "Block frame": "-13~-12",
         "Command": "d/f+2",
         "Counter hit frame": "Launch",
-        "Damage": "10",
+        "Damage": "13",
         "Gif": "https://gfycat.com/CandidPastKiwi.gif",
         "Hit frame": "Launch",
         "Hit level": "m",
@@ -1507,8 +1507,8 @@
     {
         "Block frame": "-10",
         "Command": "d+4",
-        "Counter hit frame": "+6",
-        "Damage": "8",
+        "Counter hit frame": "+16g",
+        "Damage": "10",
         "Gif": "https://gfycat.com/BadWelllitAbyssiniancat.gif",
         "Hit frame": "+1",
         "Hit level": "l",

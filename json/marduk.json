@@ -17,7 +17,7 @@
         "Block frame": "+7g",
         "Command": "in rage f+2+3",
         "Counter hit frame": "(to Mount)",
-        "Damage": "35(12)",
+        "Damage": "25(12)",
         "Gif": "",
         "Hit frame": "(to Mount)",
         "Hit level": "m",
@@ -433,7 +433,7 @@
         "Hit frame": "+5",
         "Hit level": "m,h",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "17",
         "Tags": []
     },
     {
@@ -445,7 +445,7 @@
         "Hit frame": "+5",
         "Hit level": "m,h,h",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "17",
         "Tags": []
     },
     {
@@ -457,7 +457,7 @@
         "Hit frame": "+3",
         "Hit level": "m,h,h,(VTS)",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "17",
         "Tags": []
     },
     {
@@ -469,7 +469,7 @@
         "Hit frame": "+4",
         "Hit level": "m,h,h,(VTSc)",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "17",
         "Tags": []
     },
     {
@@ -481,7 +481,7 @@
         "Hit frame": "-5",
         "Hit level": "m,h,h,m",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "17",
         "Tags": []
     },
     {
@@ -493,7 +493,7 @@
         "Hit frame": "+8s",
         "Hit level": "m,h,h,m,h",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "17",
         "Tags": []
     },
     {
@@ -505,7 +505,7 @@
         "Hit frame": "+6",
         "Hit level": "m,h,h,h",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "17",
         "Tags": []
     },
     {
@@ -517,7 +517,7 @@
         "Hit frame": "+7",
         "Hit level": "m,h,m",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "17",
         "Tags": []
     },
     {
@@ -529,7 +529,7 @@
         "Hit frame": "+8s",
         "Hit level": "m,h",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "17",
         "Tags": []
     },
     {
@@ -541,7 +541,7 @@
         "Hit frame": "+7s",
         "Hit level": "m,h",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "17",
         "Tags": []
     },
     {
@@ -553,7 +553,7 @@
         "Hit frame": "JG",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "17",
         "Tags": []
     },
     {
@@ -565,7 +565,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m,h",
         "Notes": "",
-        "Start up frame": "-",
+        "Start up frame": "17",
         "Tags": [
             "Screw"
         ]
@@ -1187,7 +1187,7 @@
         "Tags": []
     },
     {
-        "Block frame": "+23g",
+        "Block frame": "+14g (23g)",
         "Command": "QCF+1,2*",
         "Counter hit frame": "KND",
         "Damage": "21,40",
@@ -1196,7 +1196,7 @@
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "-",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-12",
@@ -1950,7 +1950,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-14",
+        "Block frame": "-39",
         "Command": "VTS d+1+2",
         "Counter hit frame": "KND",
         "Damage": "20",

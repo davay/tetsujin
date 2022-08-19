@@ -486,7 +486,7 @@
     {
         "Block frame": "-13~-12s",
         "Command": "d+4,3",
-        "Counter hit frame": "-8~-7s",
+        "Counter hit frame": "KND",
         "Damage": "11,24",
         "Gif": "https://gfycat.com/SizzlingGoldenCivet.gif",
         "Hit frame": "-8~-7s",
@@ -874,7 +874,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-3",
+        "Block frame": "+11g (20g)",
         "Command": "u+4,4",
         "Counter hit frame": "KND",
         "Damage": "27",
@@ -883,7 +883,7 @@
         "Hit level": "(Special) (TJ),h (TJ),(RLX)",
         "Notes": "",
         "Start up frame": "30(30~) js1~",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-9~-8",
@@ -1974,7 +1974,7 @@
         "Block frame": "-37~-35",
         "Command": "RLX 4~3",
         "Counter hit frame": "KND",
-        "Damage": "7,8",
+        "Damage": "9,9",
         "Gif": "https://gfycat.com/IllinformedNimbleKangaroo.gif",
         "Hit frame": "KND",
         "Hit level": "ll (TC),(HSP)",
@@ -2743,12 +2743,12 @@
         "Tags": []
     },
     {
-        "Block frame": "0~+1s",
+        "Block frame": "3~+4s",
         "Command": "SS 2",
         "Counter hit frame": "KND",
         "Damage": "18",
         "Gif": "https://gfycat.com/PowerlessDimpledChital.gif",
-        "Hit frame": "+5~+6s",
+        "Hit frame": "+8~+9s",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "24~25 (25~)",

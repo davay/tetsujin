@@ -820,7 +820,7 @@
         ]
     },
     {
-        "Block frame": "-1~+3",
+        "Block frame": "-1~+34g (21g)",
         "Command": "SS 3+4",
         "Counter hit frame": "KND",
         "Damage": "50",
@@ -829,7 +829,7 @@
         "Hit level": "h (TJ)",
         "Notes": "",
         "Start up frame": "27~31ad (36~) js11~",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "KND",
@@ -1284,7 +1284,7 @@
         "Block frame": "-14",
         "Command": "3",
         "Counter hit frame": "KND",
-        "Damage": "33",
+        "Damage": "25",
         "Gif": null,
         "Hit frame": "KND",
         "Hit level": "h",

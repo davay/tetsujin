@@ -1143,7 +1143,7 @@
         ]
     },
     {
-        "Block frame": "+3~+5",
+        "Block frame": "+3~+5 (17g)",
         "Command": "f,f+3",
         "Counter hit frame": "KND",
         "Damage": "35",
@@ -1155,7 +1155,8 @@
         "Start up frame": "21~23 (22~)",
         "Tags": [
             "Screw",
-            "Homing"
+            "Homing",
+            "Wall Crush"
         ]
     },
     {

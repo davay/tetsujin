@@ -608,8 +608,10 @@
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "15(16~)",
-        "Tags": ["Wall bounce"]
+        "Start up frame": "15 (16~)",
+        "Tags": [
+            "Wall Bounce"
+        ]
     },
     {
         "Block frame": "0~+1",
@@ -625,7 +627,7 @@
         "Tags": []
     },
     {
-        "Block frame": "+6",
+        "Block frame": "+6 (17g)",
         "Command": "f,f,f+1",
         "Counter hit frame": "KND",
         "Damage": "30",
@@ -635,7 +637,7 @@
         "Notes": "",
         "Recovery": "-33",
         "Start up frame": "16~17 (19~)",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "+3~+8",
@@ -1003,7 +1005,7 @@
     {
         "Block frame": "-10~+1",
         "Command": "DFLIP 3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "24k",
         "Damage": "17",
         "Gif": "https://gfycat.com/SmartAmusedElephant.gif",
         "Hit frame": "+24k",

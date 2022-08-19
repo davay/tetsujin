@@ -360,7 +360,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-12~-11",
+        "Block frame": "-15~-14",
         "Command": "f+1+2",
         "Counter hit frame": "KND",
         "Damage": "12,25",
@@ -451,7 +451,7 @@
         "Command": "d/f+3",
         "Counter hit frame": "+2~+3",
         "Damage": "12",
-        "Gif": "https://gfycat.com/WaterloggedBronzeAmericanblackvulture.gif",
+        "Gif": "",
         "Hit frame": "+2~+3",
         "Hit level": "m",
         "Notes": "",
@@ -862,13 +862,13 @@
         "Block frame": "-8",
         "Command": "u/f+4",
         "Counter hit frame": "KND",
-        "Damage": "21",
+        "Damage": "23",
         "Gif": "https://gfycat.com/AmbitiousAgonizingGalapagosdove.gif",
-        "Hit frame": "KND",
+        "Hit frame": "+8 (20g)",
         "Hit level": "m(TJ)",
         "Notes": "",
         "Start up frame": "18 js8~",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Alias": [

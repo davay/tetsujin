@@ -368,6 +368,7 @@
         "Hit frame": "KND",
         "Hit level": "h,h,m",
         "Notes": "",
+        "Recovery": "-32",
         "Start up frame": "11",
         "Tags": []
     },
@@ -380,6 +381,7 @@
         "Hit frame": "KND",
         "Hit level": "h,h,m (TJ)",
         "Notes": "",
+        "Recovery": "-31",
         "Start up frame": "js22~",
         "Tags": []
     },
@@ -727,6 +729,18 @@
         "Gif": "https://gfycat.com/JealousFormalChimpanzee.gif",
         "Hit frame": "+2",
         "Hit level": "l,h",
+        "Notes": "",
+        "Start up frame": "12",
+        "Tags": []
+    },
+    {
+        "Block frame": "-1",
+        "Command": "d+4,n+4,u+3",
+        "Counter hit frame": "KND",
+        "Damage": "7,16,25",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flee%2F053.mp4?alt=media",
+        "Hit frame": "KND",
+        "Hit level": "l,h,m",
         "Notes": "",
         "Start up frame": "12",
         "Tags": []
@@ -1168,6 +1182,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
+        "Recovery": "-34",
         "Start up frame": "14",
         "Tags": []
     },
@@ -1180,6 +1195,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "",
+        "Recovery": "-23",
         "Start up frame": "16~17 (17~) cs5~12",
         "Tags": []
     },
@@ -1200,7 +1216,7 @@
         "Command": "b,B+4",
         "Counter hit frame": "KND",
         "Damage": "23",
-        "Gif": "",
+        "Gif": "https://gfycat.com/bareslimjenny.gif",
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "",
@@ -1215,7 +1231,7 @@
         "Command": "b,B+4,3",
         "Counter hit frame": "KND",
         "Damage": "23",
-        "Gif": null,
+        "Gif": "https://gfycat.com/infantileagedgibbon.gif",
         "Hit frame": "KND",
         "Hit level": "h,(HMS)",
         "Notes": "",
@@ -1252,7 +1268,7 @@
     },
     {
         "Block frame": "+4~+6",
-        "Command": "f,f,f+3,4,3+4",
+        "Command": "f,f,f+3,4,3",
         "Counter hit frame": "KND",
         "Damage": "14,26",
         "Gif": "",
@@ -1725,14 +1741,14 @@
     {
         "Block frame": "-7~-6",
         "Command": "HMS 1+2",
-        "Counter hit frame": "+6~+7",
+        "Counter hit frame": "+14g (+26g)",
         "Damage": "10,15",
         "Gif": "https://gfycat.com/FeistyThatCuscus.gif",
-        "Hit frame": "+6~+7",
+        "Hit frame": "+14g (+26g)",
         "Hit level": "mm",
         "Notes": "",
         "Start up frame": "15,26~27",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-9",

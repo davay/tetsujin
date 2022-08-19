@@ -725,11 +725,11 @@
         "Counter hit frame": "KND",
         "Damage": "15,18",
         "Gif": "https://gfycat.com/SoulfulAntiqueAlaskanhusky.gif",
-        "Hit frame": "+5",
+        "Hit frame": "+14g (18g)",
         "Hit level": "m (TJ),h",
         "Notes": "",
         "Start up frame": "15~18 9~",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-21~-17",
@@ -1200,7 +1200,7 @@
         "Command": "BT 3+4",
         "Counter hit frame": "+5~+8s",
         "Damage": "18",
-        "Gif": "https://gfycat.com/poorthriftykookaburra.gif",
+        "Gif": "-",
         "Hit frame": "+5~+8s",
         "Hit level": "m (TJ)",
         "Notes": "",
@@ -1262,7 +1262,7 @@
         "Command": "BT d+3+4",
         "Counter hit frame": "KND",
         "Damage": "25",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flili%2F049.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "l (TC)(BT)",
         "Notes": "",
@@ -1284,78 +1284,6 @@
         "Tags": [
             "Homing"
         ]
-    },
-    {
-        "Block frame": "-",
-        "Command": "BT b+3",
-        "Counter hit frame": "-",
-        "Damage": "-",
-        "Gif": "",
-        "Hit frame": "-",
-        "Hit level": "(Special) (TJ)",
-        "Notes": "",
-        "Start up frame": "22~25 4~",
-        "Tags": []
-    },
-    {
-        "Block frame": "-",
-        "Command": "BT b+4",
-        "Counter hit frame": "-",
-        "Damage": "-",
-        "Gif": "",
-        "Hit frame": "-",
-        "Hit level": "(Special) (TJ)",
-        "Notes": "",
-        "Start up frame": "22~25 4~",
-        "Tags": []
-    },
-    {
-        "Block frame": "+1",
-        "Command": "f+1",
-        "Counter hit frame": "+8",
-        "Damage": "7",
-        "Gif": "",
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "10",
-        "Tags": []
-    },
-    {
-        "Block frame": "-13",
-        "Command": "d+4",
-        "Counter hit frame": "-2",
-        "Damage": "7",
-        "Gif": "",
-        "Hit frame": "-2",
-        "Hit level": "l (TC)",
-        "Notes": "",
-        "Start up frame": "12s cs4~",
-        "Tags": []
-    },
-    {
-        "Block frame": "-5",
-        "Command": "d/b+1",
-        "Counter hit frame": "+6",
-        "Damage": "5",
-        "Gif": "",
-        "Hit frame": "+6",
-        "Hit level": "Sm (TC)",
-        "Notes": "",
-        "Start up frame": "10s cs4~",
-        "Tags": []
-    },
-    {
-        "Block frame": "-4",
-        "Command": "d/b+2",
-        "Counter hit frame": "+7",
-        "Damage": "8",
-        "Gif": "",
-        "Hit frame": "+7",
-        "Hit level": "Sm (TC)",
-        "Notes": "",
-        "Start up frame": "11s cs4~",
-        "Tags": []
     },
     {
         "Block frame": "-9",
@@ -1661,7 +1589,7 @@
     {
         "Block frame": "-4",
         "Command": "4",
-        "Counter hit frame": "+7",
+        "Counter hit frame": "KND",
         "Damage": "16",
         "Gif": null,
         "Hit frame": "+7",

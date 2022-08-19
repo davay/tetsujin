@@ -837,15 +837,15 @@
             "u/f+4"
         ],
         "Block frame": "-7",
-        "Command": "u/b_u_u/f+4",
+        "Command": "u/f+4",
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/AptPleasantBullmastiff.gif",
-        "Hit frame": "+5",
+        "Hit frame": "+6 (+22g)",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "17",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-11",

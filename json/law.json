@@ -1630,7 +1630,7 @@
         ]
     },
     {
-        "Block frame": "+7g",
+        "Block frame": "+7g (+10g)",
         "Command": "DSS f+4",
         "Counter hit frame": "KND",
         "Damage": "40",
@@ -1639,7 +1639,7 @@
         "Hit level": "h (TJ)",
         "Notes": "",
         "Start up frame": "20~28a (21~) js9~",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-",
@@ -2342,7 +2342,7 @@
     {
         "Block frame": "-6",
         "Command": "d/f+1+2",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1+2",
         "Damage": "35",
         "Gif": "https://gfycat.com/ImperturbableVigorousAuk.gif",
         "Hit frame": "KND",

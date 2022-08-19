@@ -22,7 +22,7 @@
         "Hit frame": "KND",
         "Hit level": "l (TC),m",
         "Notes": "",
-        "Start up frame": "24 8~21",
+        "Start up frame": "22",
         "Tags": [
             "Rage Drive"
         ]
@@ -166,7 +166,7 @@
         "Command": "b+1,2",
         "Counter hit frame": "Launch",
         "Damage": "17,17",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Fjack%2F041.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
@@ -280,7 +280,7 @@
     {
         "Block frame": "-10~-9",
         "Command": "d/f+1,1",
-        "Counter hit frame": "+9~+10kg",
+        "Counter hit frame": "Launch",
         "Damage": "12,20",
         "Gif": "https://gfycat.com/ScratchyInbornDragon.gif",
         "Hit frame": "+9~+10kg",
@@ -644,7 +644,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-7",
+        "Block frame": "+3 (+5g)",
         "Command": "b+2*",
         "Counter hit frame": "KND",
         "Damage": "55",
@@ -653,7 +653,7 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "35",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-4",
@@ -901,7 +901,7 @@
         ]
     },
     {
-        "Block frame": "-11",
+        "Block frame": "-9",
         "Command": "b,d/b,d,d/f+2",
         "Counter hit frame": "KND",
         "Damage": "32",
@@ -2400,10 +2400,10 @@
     {
         "Block frame": "+6~+8s",
         "Command": "SS 1",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "23",
         "Gif": "https://gfycat.com/granularnauticalindochinahogdeer.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "32~34 (41~)",

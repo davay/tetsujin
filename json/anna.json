@@ -460,10 +460,10 @@
     {
         "Block frame": "-12~-11",
         "Command": "d/f+1,2,3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "13,10,20",
         "Gif": "https://gfycat.com/ShadowyYellowAndeancondor.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "m,h,m(TJ)",
         "Notes": "-",
         "Start up frame": "13",
@@ -850,7 +850,7 @@
         "Block frame": "-15",
         "Command": "d/f+4",
         "Counter hit frame": "KND",
-        "Damage": "17",
+        "Damage": "19",
         "Gif": "https://gfycat.com/ClutteredDeafeningDavidstiger.gif",
         "Hit frame": "+5s",
         "Hit level": "l",
@@ -1979,7 +1979,7 @@
         "Command": "ss 1+2",
         "Counter hit frame": "Launch",
         "Damage": "5,7",
-        "Gif": "https://gfycat.com/LiquidUnacceptableIzuthrush.gif ",
+        "Gif": "https://gfycat.com/gorgeousredeel.gif",
         "Hit frame": "Launch",
         "Hit level": "m,m",
         "Notes": "-",
@@ -2218,7 +2218,7 @@
         "Tags": []
     },
     {
-        "Block frame": "+7",
+        "Block frame": "+12 (14g)",
         "Command": "CJM f,f+4",
         "Counter hit frame": "Launch",
         "Damage": "21",
@@ -2227,7 +2227,7 @@
         "Hit level": "h",
         "Notes": "-",
         "Start up frame": "40 (56~)",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-6$",

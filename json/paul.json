@@ -290,7 +290,7 @@
         "Tags": []
     },
     {
-        "Block frame": "+20g",
+        "Block frame": "+14g (+18g)",
         "Command": "d+1,2*",
         "Counter hit frame": "KND",
         "Damage": "16,39",
@@ -299,7 +299,7 @@
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "14~15",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-31",
@@ -598,10 +598,10 @@
     {
         "Block frame": "-1~+5",
         "Command": "f,F+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20",
         "Gif": "https://gfycat.com/AdmirableThirdBlesbok.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "m (TJ)",
         "Notes": "",
         "Recovery": "-24",
@@ -867,7 +867,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-13",
+        "Block frame": "-13s",
         "Command": "qcb+3,2,3",
         "Counter hit frame": "Launch",
         "Damage": "14,20,22",

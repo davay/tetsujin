@@ -258,11 +258,11 @@
     {
         "Block frame": "-12",
         "Command": "1+2",
-        "Counter hit frame": "CS",
+        "Counter hit frame": "+8",
         "Damage": "24",
         "Gif": "https://gfycat.com/PalatableHappygoluckyHarvestmen.gif",
-        "Hit frame": "CS(KND)",
-        "Hit level": "m(Absorbs 1 h/m hit)",
+        "Hit frame": "+8",
+        "Hit level": "m(Absorbs 1 h/m punch)",
         "Notes": "",
         "Start up frame": "21~22 (2~9)",
         "Tags": []
@@ -821,8 +821,8 @@
         ]
     },
     {
-        "Block frame": "+3~+4",
-        "Command": "f,F+1+2* (Very long hold)",
+        "Block frame": "+13g (15g)",
+        "Command": "f,F+1+2*",
         "Counter hit frame": "+14~+15",
         "Damage": "28",
         "Gif": "",
@@ -831,7 +831,8 @@
         "Notes": "",
         "Start up frame": "39~40 (40~) pc6~22",
         "Tags": [
-            "Power Crush"
+            "Power Crush",
+            "Wall Crush"
         ]
     },
     {
@@ -891,6 +892,7 @@
         "Hit frame": "+7",
         "Hit level": "m",
         "Notes": "",
+        "Recovery": "-25",
         "Start up frame": "15~16",
         "Tags": []
     },
@@ -903,6 +905,7 @@
         "Hit frame": "KND(+16)",
         "Hit level": "m(h or m punch parry)",
         "Notes": "",
+        "Recovery": "-28",
         "Start up frame": "23~24 (3~8)",
         "Tags": []
     },
@@ -1973,6 +1976,7 @@
         "Hit frame": "+5",
         "Hit level": "m",
         "Notes": "",
+        "Recovery": "-20",
         "Start up frame": "13",
         "Tags": []
     },
@@ -1985,6 +1989,7 @@
         "Hit frame": "Launch (JG?)",
         "Hit level": "m",
         "Notes": "",
+        "Recovery": "-30",
         "Start up frame": "15~16a",
         "Tags": []
     },
@@ -1997,6 +2002,7 @@
         "Hit frame": "+4~+5",
         "Hit level": "m",
         "Notes": "",
+        "Recovery": "-25",
         "Start up frame": "11~12",
         "Tags": []
     },
@@ -2021,6 +2027,7 @@
         "Hit frame": "+14",
         "Hit level": "h",
         "Notes": "",
+        "Recovery": "-22",
         "Start up frame": "12",
         "Tags": []
     },
@@ -2099,10 +2106,10 @@
     {
         "Block frame": "-6",
         "Command": "d/f+4,3",
-        "Counter hit frame": "+13kg",
+        "Counter hit frame": "+7",
         "Damage": "14,20",
         "Gif": "https://gfycat.com/rewardingabandonedgar.gif",
-        "Hit frame": "+13kg",
+        "Hit frame": "+7",
         "Hit level": "m,h",
         "Notes": "",
         "Start up frame": "15",

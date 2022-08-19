@@ -634,7 +634,7 @@
         "Tags": []
     },
     {
-        "Block frame": "+4",
+        "Block frame": "+11g (23g)",
         "Command": "RSS 1+2",
         "Counter hit frame": "KND",
         "Damage": "20",
@@ -644,7 +644,7 @@
         "Notes": "",
         "Recovery": "-27",
         "Start up frame": "22(38~) js1~8",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-15",

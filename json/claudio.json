@@ -591,8 +591,8 @@
             "f,f+2,2",
             "fc d/f+2,2"
         ],
-        "Block frame": "-2~-1",
-        "Command": "f,F+2,2FC d/f+2,2",
+        "Block frame": "-2s~-1s",
+        "Command": "f,F+2,2",
         "Counter hit frame": "KND",
         "Damage": "14,20",
         "Gif": "https://gfycat.com/amusedinexperiencedcusimanse.gif",
@@ -634,7 +634,7 @@
         "Tags": []
     },
     {
-        "Block frame": "+7g~+10g",
+        "Block frame": "+7g~+10g (21g)",
         "Command": "f,f,f+2",
         "Counter hit frame": "KND",
         "Damage": "40",
@@ -644,7 +644,7 @@
         "Notes": "",
         "Recovery": "-27",
         "Start up frame": "13~16 (16~) js3~",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-12",

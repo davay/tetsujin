@@ -21,7 +21,7 @@
         "Gif": "https://gfycat.com/harmlessredgossamerwingedbutterfly.gif",
         "Hit frame": "+24g",
         "Hit level": "h!",
-        "Notes": "",
+        "Notes": "Next throw unbreakable",
         "Start up frame": "20",
         "Tags": [
             "Rage Drive"
@@ -432,7 +432,7 @@
     {
         "Block frame": "-5",
         "Command": "d/f+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "17",
         "Gif": "https://gfycat.com/PlainDimpledGiantschnauzer.gif",
         "Hit frame": "+5",
@@ -1334,12 +1334,12 @@
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "https://gfycat.com/terrificmilkyaphid.gif",
-        "Hit frame": "+3",
+        "Hit frame": "+6 (18g)",
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-34",
         "Start up frame": "12",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "0",
@@ -1407,7 +1407,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-12",
+        "Block frame": "-12~-10",
         "Command": "ss 4",
         "Counter hit frame": "KND",
         "Damage": "22",
@@ -1416,7 +1416,7 @@
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-29",
-        "Start up frame": "19",
+        "Start up frame": "19~21",
         "Tags": []
     },
     {

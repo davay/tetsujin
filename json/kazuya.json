@@ -1785,14 +1785,14 @@
     },
     {
         "Block frame": "-9~-8",
-        "Command": "WS+1+2",
-        "Counter hit frame": "KND (FUFA)",
+        "Command": "WS 1+2",
+        "Counter hit frame": "+11g (23g)",
         "Damage": "25",
         "Gif": "https://gfycat.com/softtangiblefeline.gif",
-        "Hit frame": "+14~+15kg",
+        "Hit frame": "+11g (23g)",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "13~14",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     }
 ]

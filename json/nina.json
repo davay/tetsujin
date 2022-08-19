@@ -1185,10 +1185,10 @@
     {
         "Block frame": "-13",
         "Command": "u/f+2,1",
-        "Counter hit frame": "BU",
+        "Counter hit frame": "Launch",
         "Damage": "10,10",
         "Gif": "https://gfycat.com/FlawlessUnfinishedCrocodile.gif",
-        "Hit frame": "BU",
+        "Hit frame": "Launch",
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "18",
@@ -1369,8 +1369,8 @@
         ]
     },
     {
-        "Block frame": "+8~+9",
-        "Command": "f,F+1+2* (Very long hold)",
+        "Block frame": "+11g (+16g)",
+        "Command": "f,F+1+2*",
         "Counter hit frame": "KND",
         "Damage": "32",
         "Gif": "",
@@ -1379,7 +1379,8 @@
         "Notes": "",
         "Start up frame": "33~34 (34~)",
         "Tags": [
-            "Wall Bounce"
+            "Wall Bounce",
+            "Wall Crush"
         ]
     },
     {
@@ -1641,7 +1642,7 @@
         "Command": "ss 1+2",
         "Counter hit frame": "KND",
         "Damage": "22",
-        "Gif": "https://gfycat.com/SpecificFrayedGlowworm.gif",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Fnina%2F100.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
@@ -1652,7 +1653,7 @@
         "Block frame": "-17~-16",
         "Command": "Opponent Down d+3+4",
         "Counter hit frame": "-8~-7s",
-        "Damage": "16(\u7acb\u306120)",
+        "Damage": "16(20)",
         "Gif": "",
         "Hit frame": "-8~-7s",
         "Hit level": "l(On grounded opponent)",

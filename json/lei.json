@@ -2639,10 +2639,10 @@
     {
         "Block frame": "-9",
         "Command": "DRU 3,1+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "?",
         "Damage": "10,15",
         "Gif": "https://gfycat.com/ClumsyBiodegradableAfricanpiedkingfisher.gif",
-        "Hit frame": "KND",
+        "Hit frame": "?",
         "Hit level": "l,h",
         "Notes": "",
         "Start up frame": "17",
@@ -2723,7 +2723,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-18",
+        "Block frame": "-18 (+16g)",
         "Command": "DRU b+1+2",
         "Counter hit frame": "KND",
         "Damage": "25",
@@ -2731,8 +2731,8 @@
         "Hit frame": "KND",
         "Hit level": "m (TC) (SLD)",
         "Notes": "",
-        "Start up frame": "33",
-        "Tags": []
+        "Start up frame": "29",
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-",
@@ -2999,7 +2999,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-20",
+        "Block frame": "-15",
         "Command": "SLD 3+4",
         "Counter hit frame": "KND",
         "Damage": "5,21",
@@ -3063,7 +3063,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-13",
+        "Block frame": "-8",
         "Command": "KND 4",
         "Counter hit frame": "+11k",
         "Damage": "17",
@@ -4310,10 +4310,10 @@
     {
         "Block frame": "-20",
         "Command": "SNA 4,1",
-        "Counter hit frame": "+1",
+        "Counter hit frame": "+3",
         "Damage": "11,13",
         "Gif": "https://gfycat.com/alertelementaryairedaleterrier.gif",
-        "Hit frame": "+1",
+        "Hit frame": "+3",
         "Hit level": "l, h",
         "Notes": "-",
         "Start up frame": "15",
@@ -4322,10 +4322,10 @@
     {
         "Block frame": "-20",
         "Command": "SNA 4,1,f",
-        "Counter hit frame": "+4",
+        "Counter hit frame": "+6",
         "Damage": "11,13",
         "Gif": "-",
-        "Hit frame": "+4",
+        "Hit frame": "+6",
         "Hit level": "l, h (TGR)",
         "Notes": "-",
         "Start up frame": "15",

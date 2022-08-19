@@ -59,7 +59,8 @@ MOVE_TYPES = {
     "Screw": ["ts", "tail_spin", "tailspin", "screw", "s!", "s", "screws"],
     "Homing": ["homing", "homari"],
     "Power Crush": ["armor", "armori", "pc", "power", "power_crush", "powercrush", "power crush"],
-    "Throw": ["throw", "grab", "throws", "grabs"]
+    "Throw": ["throw", "grab", "throws", "grabs"],
+    "Wall Crush" : ["wc", "wallcrush", "wallfuck"]
 }
 
 SORT_ORDER = {"Rage Art": 0, "Rage Drive": 1, "Wall Bounce": 2, "Screw": 3, "Homing": 4, "Power Crush": 5,

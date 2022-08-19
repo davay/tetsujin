@@ -14,7 +14,7 @@
         ]
     },
     {
-        "Block frame": "-12~-10",
+        "Block frame": "+1",
         "Command": "in rage f,F+1+2",
         "Counter hit frame": "KND",
         "Damage": "23(3)",
@@ -26,21 +26,6 @@
         "Tags": [
             "Rage Drive"
         ]
-    },
-    {
-        "Alias": [
-            "Toe Kick"
-        ],
-        "Block frame": "-20",
-        "Command": "FUFT d+3",
-        "Counter hit frame": "-3s",
-        "Damage": "6",
-        "Gif": "",
-        "Hit frame": "-3s",
-        "Hit level": "l",
-        "Notes": "",
-        "Start up frame": "13",
-        "Tags": []
     },
     {
         "Block frame": "-5",
@@ -289,7 +274,7 @@
     {
         "Block frame": "-7~-4",
         "Command": "d/f+1+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "32",
         "Gif": "https://gfycat.com/VagueFemaleJabiru.gif",
         "Hit frame": "KND",
@@ -620,7 +605,7 @@
         "Tags": []
     },
     {
-        "Block frame": "+7~+8",
+        "Block frame": "+7~+8 (18g)",
         "Command": "u/f+4,3",
         "Counter hit frame": "KND",
         "Damage": "20,20",
@@ -630,7 +615,8 @@
         "Notes": "",
         "Start up frame": "d js1~",
         "Tags": [
-            "Screw"
+            "Screw",
+            "Wall Crush"
         ]
     },
     {
@@ -1239,6 +1225,30 @@
         "Hit level": "l (TC),(HBS)",
         "Notes": "",
         "Start up frame": "12~16 (27~) cs1~",
+        "Tags": []
+    },
+    {
+        "Block frame": "-",
+        "Command": "HBS u",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": null,
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Autoblock m/h 1~10. Recovers in crouch",
+        "Start up frame": "10",
+        "Tags": []
+    },
+    {
+        "Block frame": "-",
+        "Command": "HBS d/b",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": null,
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Autoblock l 1~15. Recovers in crouch",
+        "Start up frame": "15",
         "Tags": []
     },
     {
@@ -2237,7 +2247,7 @@
     {
         "Block frame": "-13",
         "Command": "d/b+2",
-        "Counter hit frame": "+1",
+        "Counter hit frame": "+14g",
         "Damage": "14",
         "Gif": "https://gfycat.com/NeglectedRegalBullfrog.gif",
         "Hit frame": "+1",

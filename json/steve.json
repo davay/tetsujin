@@ -2076,7 +2076,8 @@
     {
         "Alias": [
             "d+1+2 grounded opponent",
-            "grounded opponent d+1+2"
+            "grounded opponent d+1+2",
+            "stomp"
         ],
         "Block frame": "-11",
         "Command": "opponent down d+1+2",
@@ -3113,15 +3114,16 @@
     {
         "Block frame": "-6~-5",
         "Command": "PAB d/f+1,2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "+10g (18g)",
         "Damage": "10,20",
         "Gif": "https://gfycat.com/GrouchyFlickeringAtlasmoth.gif",
-        "Hit frame": "KND",
+        "Hit frame": "+10g (+18g)",
         "Hit level": "m,h",
         "Notes": "",
         "Start up frame": "15~16 (16~)",
         "Tags": [
-            "Screw"
+            "Screw",
+            "Wall Crush"
         ]
     },
     {

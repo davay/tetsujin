@@ -819,7 +819,7 @@
     {
         "Block frame": "-11~-10",
         "Command": "b+1+2",
-        "Counter hit frame": "+6k",
+        "Counter hit frame": "Launch",
         "Damage": "8,20",
         "Gif": "https://gfycat.com/VastKnobbyDanishswedishfarmdog.gif",
         "Hit frame": "+6k",
@@ -906,14 +906,14 @@
     {
         "Block frame": "-16",
         "Command": "f,f+4,3",
-        "Counter hit frame": "+3",
+        "Counter hit frame": "+8 (17g)",
         "Damage": "14,20",
         "Gif": "https://gfycat.com/AstonishingAbsoluteAxolotl.gif",
-        "Hit frame": "+3",
+        "Hit frame": "+8 (17g)",
         "Hit level": "l,m",
         "Notes": "",
         "Start up frame": "21(22~)",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-9",

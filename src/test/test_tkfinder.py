@@ -176,9 +176,9 @@ class MyTestCase(unittest.TestCase):
             "online_webpage": "http://rbnorway.org/xiaoyu-t7-frames",
             "portrait": "https://i.imgur.com/zuojLtJ.jpg"
         }
-        self.assertEqual("AOP (u/b_u_u/f)+3,3", tkfinder.get_move(ling, "AOP uf33")["Command"])
-        self.assertEqual("AOP (u/b_u_u/f)+3,3", tkfinder.get_move(ling, "AOP ub33")["Command"])
-        self.assertEqual("AOP (u/b_u_u/f)+3,3", tkfinder.get_move(ling, "AOP u33")["Command"])
+        self.assertEqual("AOP u/f+3,3", tkfinder.get_move(ling, "AOP uf33")["Command"])
+        self.assertEqual("AOP u/f+3,3", tkfinder.get_move(ling, "AOP ub33")["Command"])
+        self.assertEqual("AOP u/f+3,3", tkfinder.get_move(ling, "AOP u33")["Command"])
 
     def test_hwo(self):
         hwo = {

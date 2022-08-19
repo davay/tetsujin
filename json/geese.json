@@ -1101,7 +1101,7 @@
         "Counter hit frame": "-",
         "Damage": "45",
         "Gif": "",
-        "Hit frame": "+16",
+        "Hit frame": "+14",
         "Hit level": "m",
         "Notes": "Parries mid. Total frames 50",
         "Start up frame": "3~18",
@@ -1206,7 +1206,7 @@
     {
         "Block frame": "-12",
         "Command": "ss 3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "17g",
         "Damage": "18",
         "Gif": "https://gfycat.com/LastRigidAmericanalligator.gif",
         "Hit frame": "+4",
@@ -1479,17 +1479,18 @@
     {
         "Block frame": "-9",
         "Command": "d/f+2",
-        "Counter hit frame": "Launch (S!)",
+        "Counter hit frame": "+11g (23g)",
         "Damage": "17",
         "Gif": "https://gfycat.com/HugeHeavyBittern.gif",
-        "Hit frame": "+14kg",
+        "Hit frame": "+11g (23g)",
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-31",
         "Start up frame": "18",
         "Tags": [
             "Screw",
-            "Homing"
+            "Homing",
+            "Wall Crush"
         ]
     },
     {

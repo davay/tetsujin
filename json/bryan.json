@@ -1081,8 +1081,8 @@
         ]
     },
     {
-        "Block frame": "+8~+9",
-        "Command": "f,F+3* (Very long hold)",
+        "Block frame": "+11g (13g)",
+        "Command": "f,F+3*",
         "Counter hit frame": "KND",
         "Damage": "33",
         "Gif": "",
@@ -1091,7 +1091,8 @@
         "Notes": "",
         "Start up frame": "34~35 (35~)",
         "Tags": [
-            "Screw"
+            "Screw",
+            "Wall Crush"
         ]
     },
     {
@@ -1574,7 +1575,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m,m,h,h,m(TJ)",
         "Notes": "",
-        "Start up frame": "js16~",
+        "Start up frame": "15~",
         "Tags": []
     },
     {
@@ -1586,7 +1587,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m,m,h,h,m(TJ),h",
         "Notes": "",
-        "Start up frame": "16~",
+        "Start up frame": "15~",
         "Tags": []
     },
     {

@@ -1660,16 +1660,17 @@
     {
         "Block frame": "-9~-7",
         "Command": "WS 3",
-        "Counter hit frame": "Launch (S!)",
+        "Counter hit frame": "+7 (19g)",
         "Damage": "20",
         "Gif": "https://gfycat.com/AnnualHeartyAchillestang.gif",
-        "Hit frame": "+10~+12kg",
+        "Hit frame": "+7 (19g)",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "16~18",
         "Tags": [
             "Screw",
-            "Homing"
+            "Homing",
+            "Wall Crush"
         ]
     },
     {
