@@ -1730,7 +1730,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-14~-13",
+        "Block frame": "-12",
         "Command": "DES d+2",
         "Counter hit frame": "2~+3",
         "Damage": "3*3,20",

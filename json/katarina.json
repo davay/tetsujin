@@ -961,7 +961,7 @@
             "u/f+3"
         ],
         "Block frame": "-15",
-        "Command": "u/b_u_u/f+3",
+        "Command": "u/f+3",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "27",
         "Gif": "https://gfycat.com/JoyousWhoppingCommongonolek.gif",
@@ -1380,7 +1380,7 @@
     {
         "Block frame": "-9",
         "Command": "b+3",
-        "Counter hit frame": "+7",
+        "Counter hit frame": "+27",
         "Damage": "15",
         "Gif": "https://gfycat.com/LastYoungAmericanshorthair.gif",
         "Hit frame": "+2",

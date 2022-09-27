@@ -25,7 +25,11 @@ The executable is `src/mokujin.py`.
 
 Commands:
 ```
+Slash Command
 /fd <character> <move>       -    get frame data of a move from a character
 /last-updates         -    get the messages of some latest updates
 /feedback <message>      -    send message to the author   
+
+Direct ping
+@discordbot <character> <move>        -    get frame data of a move from a character
 ```

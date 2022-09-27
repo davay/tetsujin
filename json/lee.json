@@ -334,13 +334,13 @@
     },
     {
         "Alias": [
-            "3~3:4"
+            "3~3 hit"
         ],
         "Block frame": "Throw(KND)",
-        "Command": "3~3 hit",
+        "Command": "3~3:4",
         "Counter hit frame": "Throw(KND)",
         "Damage": "(18,)25",
-        "Gif": "",
+        "Gif": "https://gfycat.com/dependableparallelfly.gif",
         "Hit frame": "Throw(KND)",
         "Hit level": "(h,)h(Throw)",
         "Notes": "",

@@ -701,7 +701,7 @@
         "Command": "d/f+1+2,1+2",
         "Counter hit frame": "KND",
         "Damage": "13,13,17",
-        "Gif": "https://gfycat.com/LimpingThunderousKiskadee.gif",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Fgigas%2F028.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "mm,m",
         "Notes": "",
@@ -972,7 +972,7 @@
     {
         "Block frame": "-7~-6",
         "Command": "WS 1",
-        "Counter hit frame": "+219g",
+        "Counter hit frame": "+29g",
         "Damage": "17",
         "Gif": "https://gfycat.com/ReasonableImperfectAmurstarfish.gif",
         "Hit frame": "+5~+6",

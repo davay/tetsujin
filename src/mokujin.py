@@ -10,7 +10,7 @@ sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
 import discord
 from discord import app_commands
 from src import tkfinder, util
-from src.resources import embed
+from src.resources import embed, const
 from github import Github
 
 base_path = os.path.dirname(__file__)
@@ -56,55 +56,61 @@ class mokujin(discord.Client):
 client = mokujin()
 tree = app_commands.CommandTree(client)
 
-@client.event
-async def on_message(message):
-    if client.user.mentioned_in(message):
-        user_message_list = message.content[1:].split(' ', 1)[1]
-        user_command = user_message_list.strip().split(' ',1)
-        original_name = user_command[0].lower()
-        original_move = user_command[1]
-
-        character_name = tkfinder.correct_character_name(original_name)
-        if character_name is not None:
-            character = tkfinder.get_character_detail(character_name)
-            move_type = util.get_move_type(original_move.lower())
-
-            if move_type:
-                result = util.display_moves_by_type(character, move_type)
-            else:
-                result = util.display_moves_by_input(character, original_move)
-        else:
-            result = {"embed": embed.error_embed(f'Character {original_name} does not exist.')}
-
-        await message.channel.send(embed=result["embed"])
-
-@tree.command(name="fd", description="Frame data from a character move")
-async def self(interaction: discord.Interaction, character: str, move: str):
-    character = character.lower()
-    character_name = tkfinder.correct_character_name(character)
-
+def get_frame_data(name :str, move :str):
+    result = {}
+    character_name = tkfinder.correct_character_name(name)
     if character_name is not None:
         character = tkfinder.get_character_detail(character_name)
         move_type = util.get_move_type(move.lower())
-
         if move_type:
             result = util.display_moves_by_type(character, move_type)
         else:
             result = util.display_moves_by_input(character, move)
     else:
-        result = {"embed": embed.error_embed(f'Character {character} does not exist.')}
+        result = {"embed": embed.error_embed(f'Character {move} does not exist.')}
 
-    await interaction.response.send_message(embed=result["embed"], ephemeral=False)
+    return result
+
+def is_author_blacklisted(user_id):
+
+    if user_id in const.ID_BLACKLIST:
+        return True
+    else:
+        return False
+
+def is_author_newly_created(interaction):
+    today = datetime.datetime.strptime(datetime.datetime.now().isoformat(), "%Y-%m-%dT%H:%M:%S.%f")
+    age = today - interaction.user.created_at.replace(tzinfo=None)
+    if age.days < 120:
+        return True
+    return False
+
+@client.event
+async def on_message(message):
+        if not is_author_blacklisted(message.author.id) and message.content:
+            print(message.author.id)
+            print(message.author)
+            delete_after = config.get_auto_delete_duration(message.channel.id)
+            user_command = message.content[1:].split(' ', 1)[1]
+            parameters = user_command.strip().split(' ',1)
+            original_name = parameters[0].lower()
+            original_move = parameters[1]
+            result = get_frame_data(original_name, original_move)
+
+            await message.channel.send(embed=result["embed"])
+
+@tree.command(name="fd", description="Frame data from a character move")
+async def self(interaction: discord.Interaction, character: str, move: str):
+    if not is_author_blacklisted(interaction.user.id):
+        character = character.lower()
+        result = get_frame_data(character, move)
+        await interaction.response.send_message(embed=result["embed"], ephemeral=False)
+
 
 
 @tree.command(name="feedback", description="Send feedback incase of wrong data")
 async def self(interaction: discord.Interaction, message: str):
-    today = datetime.datetime.strptime(datetime.datetime.now().isoformat(), "%Y-%m-%dT%H:%M:%S.%f")
-    age = today - interaction.user.created_at.replace(tzinfo=None)
-    print(age.days)
-    if age.days < 120:
-        return
-    else:
+    if not (is_author_blacklisted(interaction.user.id) or is_author_newly_created(interaction)):
         try:
             feedback_message = "{} ;{} ;{} ;{}\n".format(str(interaction.user.name), interaction.user.id,
                                                          interaction.guild, message)

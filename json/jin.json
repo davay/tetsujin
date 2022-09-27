@@ -1548,16 +1548,17 @@
     {
         "Block frame": "-9~-7",
         "Command": "f,n,d,d/f+3",
-        "Counter hit frame": "Launch (S!)",
+        "Counter hit frame": "+7 (19g)",
         "Damage": "20",
         "Gif": "",
-        "Hit frame": "+10~+12kg",
+        "Hit frame": "+7 (19g)",
         "Hit level": "m",
         "Notes": "Doesn't occur if input is f,n,d,d/f:3",
         "Start up frame": "16~18 (20~)",
         "Tags": [
             "Screw",
-            "Homing"
+            "Homing",
+            "Wall Crush"
         ]
     },
     {

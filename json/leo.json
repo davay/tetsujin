@@ -404,7 +404,7 @@
         "Hit frame": "+7~+8",
         "Hit level": "m,h",
         "Notes": "",
-        "Start up frame": "15",
+        "Start up frame": "14",
         "Tags": []
     },
     {
@@ -416,7 +416,7 @@
         "Hit frame": "+8~+9s",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "15",
+        "Start up frame": "14",
         "Tags": []
     },
     {
@@ -1341,7 +1341,7 @@
             "u+2"
         ],
         "Block frame": "-12~-11",
-        "Command": "u/b_u+2",
+        "Command": "u+2",
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -1847,7 +1847,7 @@
         "Hit frame": "0",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "15",
+        "Start up frame": "14",
         "Tags": []
     },
     {

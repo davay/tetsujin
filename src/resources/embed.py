@@ -91,10 +91,12 @@ def similar_moves_embed(similar_moves, character_name):
 
 
 def help_embed():
-    text = "" \
+    text = "**Slash command** \n" \
            "/fd <character> <move>\t\t\t- get frame data of a move from a character \n" \
            "/last-updates\t\t\t- get the messages of some latest updates\n" \
-           "/feedback <message>\t\t\t- send message including sender name to the devs \n\n "
+           "/feedback <message>\t\t\t- send message including sender name to the devs \n\n" \
+           "**Direct Ping** \n " \
+           "@discordbot <character> <move>\t\t\t- get frame data of a move from a character \n\n"
     embed = discord.Embed(title='Commands', description=text, colour=0x37ba25)
     embed.set_author(name='Author: Tib#1303')
 

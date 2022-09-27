@@ -1005,10 +1005,10 @@
     {
         "Block frame": "-10~+1",
         "Command": "DFLIP 3",
-        "Counter hit frame": "24k",
+        "Counter hit frame": "+24-35kg",
         "Damage": "17",
         "Gif": "https://gfycat.com/SmartAmusedElephant.gif",
-        "Hit frame": "+24k",
+        "Hit frame": "+24-35kg",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "14~ (41~52) js1~",

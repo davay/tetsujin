@@ -101,7 +101,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-2",
+        "Block frame": "0",
         "Command": "1,2,b,f",
         "Counter hit frame": "+5",
         "Damage": "7,8",
